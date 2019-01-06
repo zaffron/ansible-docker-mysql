@@ -1,8 +1,6 @@
-# opichon.docker-mysql
+# zaffron.docker-mysql
 
 An Ansible role to run a MySQL server as a docker container.
-
-See also [opichon.mysql-backup](https://galaxy.ansible.com/opichon/mysql-backup/)
 
 ## Requirements
 

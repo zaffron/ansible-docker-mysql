@@ -1,7 +1,6 @@
 galaxy_info:
-  author: Olivier Pichon <op@united-asian.com>
-  description: Install mysql as a docker container
-  company: United Asian Management Limited
+  author: Avinash Rijal <avinashrijal@gmail.com>
+  description: Install Docker CE
 
   license: license (MIT)
 
