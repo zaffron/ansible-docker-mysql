@@ -1,4 +1,5 @@
 galaxy_info:
+  role_name: docker-mysql
   author: Avinash Rijal <avinashrijal@gmail.com>
   description: Install Docker CE
 
